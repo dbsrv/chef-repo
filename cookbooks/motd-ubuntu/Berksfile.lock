@@ -1,0 +1,7 @@
+DEPENDENCIES
+  motd-ubuntu
+    path: .
+    metadata: true
+
+GRAPH
+  motd-ubuntu (0.1.0)
